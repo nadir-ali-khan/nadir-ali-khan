@@ -19,6 +19,11 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nadir-ali-khan&show_icons=true&theme=dark&hide_border=true)
+<a href="https://github.com/nadir-ali-khan">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nadir-ali-khan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ali-khan&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ali-khan&layout=compact&theme=dark&hide_border=true)
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadir-ali-khan&theme=github-dark&hide_border=true&area=true)
